@@ -23,6 +23,8 @@
 
 **Entity Diagram**
 
+![ERD](https://live.staticflickr.com/65535/52092669140_06e81db88f.jpg)
+
 **Bussiness Requirement**
 
 1. A user registration system that manages two types of users: Admin and Normal Users
